@@ -1,0 +1,5 @@
+print("Melbourne)
+print("Adelaide")
+Print("Perth")
+print("Sydney")
+prin("Hobart")

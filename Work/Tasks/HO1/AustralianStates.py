@@ -1,0 +1,7 @@
+print("Australian Captial Territory\nACT\nCanberra\n390,800")
+print("\nNew South Wales\nNSW\nSydney\n7,618,200")
+print("\nNorthern Territory\nNT\nDarwin\n7,618,200")
+print("\nQueensland\nQLD\nBrisbane\n4,779,400")
+print("\nSouth Australia\nSA\nAdelaide\n1,698,600")
+print("\nVictoria\nVIC\nMelbourne\n5,938,100")
+print("\nWestern Australia\nWA\nPerth\n2,591,600")
